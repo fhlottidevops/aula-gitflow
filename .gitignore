@@ -1,0 +1,21 @@
+# Ignorar o diretório do ambiente virtual
+venv/
+
+# Ignorar arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar logs e bancos de dados
+*.log
+*.sqlite3
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
